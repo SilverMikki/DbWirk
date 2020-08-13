@@ -1,0 +1,1 @@
+﻿select s.[Serial], s.[Name], s.[DateCome], s.[Problem], s.[Method], s.[DateSend], s.[Sender], s.[Where], w.[Name] from Service s INNER JOIN Worker w on s.WorkerId = w.WorkerId

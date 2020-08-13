@@ -1,0 +1,1 @@
+﻿insert into Garant (Garant) values (N'Не гарантія')
